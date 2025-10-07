@@ -1,0 +1,8 @@
+{
+  "name": "process-todo",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "aws-amplify": "^6.6.4"
+  }
+}
